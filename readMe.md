@@ -1,7 +1,8 @@
-# BLANK
-_By Arthur Edward Ortiz_
+# Portlander
+_By Arthur Edward Ortiz & Elliot McGonigal_
 
 ## Scope / Assignments 
+Making a test project to apply the lesson plan at Epicodus. 
 
 ## Technologies Used 
 * CSS
